@@ -1,0 +1,10 @@
+header {
+    color: coral;
+    height: 40px;
+    background-color: crimson;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+  }
+  
+  
