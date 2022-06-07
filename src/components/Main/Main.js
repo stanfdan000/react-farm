@@ -10,7 +10,7 @@ export default function Main() {
       {animals.map((item, i) => (
         <Animal key={item.name + i } {...item} />
       ))}
-      <header>this is my farm you are Welcome</header>
+      <header>this is my farm</header>
     </main>
   );
 }
