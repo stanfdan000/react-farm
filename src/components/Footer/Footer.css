@@ -1,0 +1,12 @@
+footer {
+    color: cornflowerblue;
+    height: 40px;
+    background-color: chocolate;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+  }
+  
