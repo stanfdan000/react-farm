@@ -6,7 +6,6 @@ import Footer from './components/Footer/Footer.js';
 import { Animals } from './data.js';
 
 function App() {
-  console.log(Animals);
   return (
     <div className="App">
       <Header name='daniel stanford'/>
