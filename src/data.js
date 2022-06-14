@@ -1,4 +1,4 @@
-export const animals = [
+export const Animals = [
   {
     name: 'tom the cow',
     type: 'cow',
